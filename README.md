@@ -14,14 +14,28 @@
 
 ## Quick Profile
 
-<div align="center">
-
-| 🏫 School | 🥇 Rank | 🤖 Robotics | 🥋 Taekwondo |
-|---|---|---|---|
-| I.M. Terrell Academy | 1 / 105 | Head Captain • 17505B | 3rd Degree Black Belt |
-| STEM Major • Class of 2028 | Core GPA: 4.792 | Head Technical Writer | Competitor • Referee |
-
-</div>
+<table>
+<tr>
+<td>🏫</td>
+<td><b>I.M. Terrell Academy for STEM and VPA</b></td>
+<td>STEM Major • Class of 2028</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>VEX Robotics</b></td>
+<td>Head Captain • Head Technical Writer • Team 17505B</td>
+</tr>
+<tr>
+<td>🥋</td>
+<td><b>Taekwondo</b></td>
+<td>3rd Degree Black Belt • Competitor • Referee</td>
+</tr>
+<tr>
+<td>📍</td>
+<td><b>Location</b></td>
+<td>Fort Worth, Texas</td>
+</tr>
+</table>
 
 ---
 
@@ -44,18 +58,6 @@
 | [Black-Scholes Options Lab](https://github.com/Raphael-Azerad/Black-Scholes-Options-Lab) | options pricing • Greeks • implied volatility • payoff analysis |
 | [Monte Carlo Simulation Lab](https://github.com/Raphael-Azerad/Monte-Carlo-Simulation-Lab) | portfolio simulation • risk distributions • drawdowns • probability outcomes |
 | [IRR Analytics Terminal](https://github.com/Raphael-Azerad/irr-analytics-terminal) | IRR • NPV • MIRR • payback period • capital budgeting |
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael-Azerad&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Azerad&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
