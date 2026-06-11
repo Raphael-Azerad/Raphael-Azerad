@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Raphael Azerad
 
-### VEX Robotics Captain • Finance & Data Science Builder • Student Developer
+### Robotics • Finance • Data Science • Software
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Raphael--Azerad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphael-Azerad)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Raphael%20Azerad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-az/)
@@ -12,41 +12,62 @@
 
 ---
 
-## About
+## Quick Profile
 
-I'm a high school student at I.M. Terrell Academy interested in robotics, finance, data science, software engineering, and startups.
-
-Most of my work is focused on building useful technical projects, learning by shipping, and applying software to areas I already care about.
+<table>
+<tr>
+<td>🏫</td>
+<td><b>I.M. Terrell Academy for STEM and VPA</b></td>
+<td>STEM Major • Class of 2028</td>
+</tr>
+<tr>
+<td>🥇</td>
+<td><b>Class Rank</b></td>
+<td>1 / 105</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>VEX Robotics</b></td>
+<td>Head Captain • Head Technical Writer • Team 17505B</td>
+</tr>
+<tr>
+<td>🥋</td>
+<td><b>Taekwondo</b></td>
+<td>3rd Degree Black Belt • Competitor • Referee</td>
+</tr>
+<tr>
+<td>📍</td>
+<td><b>Location</b></td>
+<td>Fort Worth, Texas</td>
+</tr>
+</table>
 
 ---
 
 ## Highlights
 
-|  | Highlight | Details |
-|---|---|---|
-| 🤖 | **Head Captain & Technical Writer — VEX Robotics Team 17505B** | Lead team strategy, engineering documentation, competition preparation, sponsorship outreach, and team operations. Helped produce a 550+ page engineering notebook and coordinate work across build, coding, scouting, and outreach. |
-| 🏆 | **VEX Robotics Competition Success** | Helped 17505B earn major awards including Excellence, Design, Judges, and Build while qualifying for regionals, UIL State, and national-level events. |
-| 📰 | **Student of the Week — Fort Worth Report** | Recognized for leadership, academic performance, robotics work, fundraising, and contributions to the school community. |
-| 🤖 | **Sophia the Robot Presentation Co-Lead** | Helped introduce and speak alongside Sophia the Robot at I.M. Terrell Academy before 300+ attendees, highlighting robotics, innovation, and the future of AI. |
-| 🥋 | **Third-Degree Kukkiwon Black Belt** | Earned third-degree black belt after more than a decade of Taekwondo training, competition, and instruction. |
-| 🇺🇸 | **Tomb of the Unknown Soldier Wreath Laying** | Selected as one of four students to represent Trinity Valley School in a wreath-laying ceremony at Arlington National Cemetery. |
+- 🤖 **VEX Robotics Team 17505B** — Head Captain and Head Technical Writer; led strategy, engineering documentation, competition preparation, sponsorship outreach, and team operations while helping produce a 550+ page engineering notebook.
+
+- 🏆 **Robotics Competition Results** — Helped 17505B earn major awards including Excellence, Design, Judges, and Build while qualifying for regionals, UIL State, and national-level events.
+
+- 🥋 **Taekwondo** — 3rd Degree Kukkiwon Black Belt with more than 12 years of training, competition, instruction, and refereeing experience.
+
+- 📊 **Finance & Computer Science Projects** — Built Python and Streamlit projects exploring CAPM, Monte Carlo simulation, Black-Scholes options pricing, DCF valuation, and IRR analysis.
 
 ---
 
-## Finance & Computer Science Projects
-
-Built a series of Python and Streamlit projects exploring how software can be used to model valuation, risk, options pricing, and capital allocation.
+## Projects
 
 | Project | Focus |
 |---|---|
-| [DCF Valuation Studio](https://github.com/Raphael-Azerad/DCF-Valuation-Studio) | Discounted cash flow valuation, CAPM/WACC, sensitivity analysis, and scenario modeling |
-| [Black-Scholes Options Lab](https://github.com/Raphael-Azerad/Black-Scholes-Options-Lab) | Options pricing, Greeks, payoff diagrams, implied volatility, and scenario analysis |
-| [Monte Carlo Simulation Lab](https://github.com/Raphael-Azerad/Monte-Carlo-Simulation-Lab) | Portfolio simulation, risk distributions, drawdowns, and probability-based outcomes |
-| [IRR Analytics Terminal](https://github.com/Raphael-Azerad/irr-analytics-terminal) | IRR, NPV, MIRR, payback period, capital budgeting, and multi-project comparison |
+| [DCF Valuation Studio](https://github.com/Raphael-Azerad/DCF-Valuation-Studio) | DCF valuation • CAPM/WACC • sensitivity analysis • scenario modeling |
+| [Black-Scholes Options Lab](https://github.com/Raphael-Azerad/Black-Scholes-Options-Lab) | options pricing • Greeks • implied volatility • payoff analysis |
+| [Monte Carlo Simulation Lab](https://github.com/Raphael-Azerad/Monte-Carlo-Simulation-Lab) | portfolio simulation • risk distributions • drawdowns • probability outcomes |
+| [IRR Analytics Terminal](https://github.com/Raphael-Azerad/irr-analytics-terminal) | IRR • NPV • MIRR • payback period • capital budgeting |
 
 ---
 
-## Interests
+## Focus Areas
 
 Robotics • Finance • Data Science • Software Engineering • Startups • Public-Data Research • Education Policy
 
