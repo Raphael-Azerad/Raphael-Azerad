@@ -63,7 +63,7 @@
 
 ## Focus Areas
 
-Robotics • Finance • Data Science • Software Engineering • Startups • Public-Data Research • Education Policy
+Robotics • Finance • Data Science • Software Engineering • Startups • Public-Data Research
 
 ---
 
